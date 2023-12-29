@@ -1,0 +1,128 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background:#484C5D;
+}
+
+#title {
+  text-align: center;
+  font-size: 57px;
+  text-decoration: underline;
+  text-decoration-color: #000000;
+  color: #243c54;
+  border-width:6px;
+  border-style:inset;
+  border-color:#f4dcbb;
+  background:#617d88;
+  border-radius: 25px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  font-family: Arial, Helvetica, sans-serif;
+  texhadow: 2px 4px #5C6B69;
+}
+
+.me{
+  margin: auto;
+  width: 45%;
+  text-align: center;
+  border-width:6px;
+  border-style:inset;
+  border-color:#f4dcbb;
+  background:#617d88;
+  border-radius: 25px;
+}
+
+#pic {
+  width: 50%;
+  height: auto;
+}
+
+.me_body{
+  text-decoration-color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #243c54;
+  float: center;
+  texhadow: 2px 4px #5C6B69;
+}
+
+.me_title{
+  text-decoration: underline;
+  text-decoration-color: #2D6796;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #243c54;
+  float: center;
+  texhadow: 2px 4px #5C6B69;
+}
+
+.body_left{
+  display: flex;
+  text-decoration-color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #243c54;
+  width: 90%;
+  float: left;
+}
+
+.body_right{
+  display: flex;
+  text-decoration-color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #243c54;
+  float: right;
+  width: 90%;
+}
+
+.body_left_left {
+  text-align: center;
+  text-decoration: underline;
+  border-width:6px;
+  border-style:inset;
+  border-color:#f4dcbb;
+  background:#617d88;
+  border-radius: 25px;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+  texhadow: 2px 4px #5C6B69;
+  width: 50%;
+}
+
+.body_left_right {
+  text-align: left;
+  border-width:6px;
+  border-style:inset;
+  border-color:#f4dcbb;
+  background:#617d88;
+  border-radius: 25px;
+  border-bottom-left-radius:0px;
+  border-top-left-radius:0px;
+  texhadow: 2px 4px #5C6B69;
+  width: 50%;
+}
+
+.body_right_left {
+  text-align: center;
+  text-decoration: underline;
+  border-width:6px;
+  border-style:inset;
+  border-color:#f4dcbb;
+  background:#617d88;
+  border-radius: 25px;
+  border-bottom-right-radius:0px;
+  border-top-right-radius:0px;
+  texhadow: 2px 4px #5C6B69;
+  width: 50%;
+}
+
+.body_right_right {
+  text-align: left;
+  border-width:6px;
+  border-style:inset;
+  border-color:#f4dcbb;
+  background:#617d88;
+  border-radius: 25px;
+  border-bottom-left-radius:0px;
+  border-top-left-radius:0px;
+  texhadow: 2px 4px #5C6B69;
+  width: 50%;
+}
