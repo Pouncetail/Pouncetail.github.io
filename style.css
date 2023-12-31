@@ -56,7 +56,6 @@ html, body {
 }
 
 .body_left{
-  margin-top: 10px;
   display: flex;
   text-decoration-color: #000000;
   font-family: Arial, Helvetica, sans-serif;
@@ -66,7 +65,6 @@ html, body {
 }
 
 .body_right{
-  margin-top: 10px;
   display: flex;
   text-decoration-color: #000000;
   font-family: Arial, Helvetica, sans-serif;
