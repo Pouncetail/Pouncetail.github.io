@@ -126,3 +126,12 @@ html, body {
   texhadow: 2px 4px #5C6B69;
   width: 50%;
 }
+
+img {
+    position: relative;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
