@@ -4,7 +4,7 @@ html, body {
   background:#484C5D;
 }
 
-#title {
+.top{
   text-align: center;
   font-size: 57px;
   text-decoration: underline;
@@ -15,10 +15,13 @@ html, body {
   border-color:#f4dcbb;
   background:#617d88;
   border-radius: 25px;
-  border-top-left-radius:0px;
-  border-top-right-radius:0px;
   font-family: Arial, Helvetica, sans-serif;
   texhadow: 2px 4px #5C6B69;
+}
+
+#title {
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
 }
 
 .me{
