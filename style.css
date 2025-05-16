@@ -26,7 +26,7 @@ html, body {
 
 #bar{
   margin: auto;
-  width: 100%;
+  width: 90%;
   text-align: center;
   border-width:6px;
   border-style:inset;
