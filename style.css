@@ -24,6 +24,17 @@ html, body {
   border-top-right-radius:0px;
 }
 
+#bar{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  border-width:6px;
+  border-style:inset;
+  border-color:#f4dcbb;
+  background:#617d88;
+  border-radius: 25px;
+}
+
 .me{
   margin: auto;
   width: 45%;
